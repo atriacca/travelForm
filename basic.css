@@ -1,0 +1,24 @@
+.navBar > div {
+    padding: 10px;
+    text-align: center;
+    font-size: 1.5em;
+    color: white;
+  }
+  
+  html, body {
+    background-color: lightblue;
+    margin: 10px;
+    height: 100%;
+}
+  
+  .navBar > div:nth-child(1) {
+    background-color: lightgreen;	
+  }
+  
+  .navBar > div:nth-child(2) {
+    background-color: lightsalmon;
+  }
+  
+  .navBar > div:nth-child(3) {
+    background-color: lightgreen;
+  }
